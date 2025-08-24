@@ -1,7 +1,7 @@
 # 💫 About Me:
 I’m a full-stack web developer with a passion for building modern, efficient, and user-friendly applications. My work spans website development, Telegram bots, mini-apps, and Python-based projects.<br><br>On the backend, I’m highly proficient in PHP, Python, and NodeJS, creating scalable and robust server-side solutions. On the frontend, I specialize in React, NextJS, and Bootstrap, delivering responsive, interactive, and polished user interfaces.<br><br>I thrive on solving complex problems, optimizing performance, and turning ideas into functional digital products. Constantly exploring new technologies, I aim to craft software that is both elegant and powerful.<br><br>If you want a developer who can handle both the backend logic and frontend experience while building bots, mini-apps, and Python scripts, you’ve found the right profile.
 
-## 🌐 Socials:
+# 🌐 Socials:
 
 <a href="https://t.me/emadtoranji">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="40" alt="Telegram">
