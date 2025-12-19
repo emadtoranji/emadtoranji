@@ -1,5 +1,5 @@
 ## 💫 About Me:
-I’m a full-stack web developer with a passion for building modern, efficient, and user-friendly applications. My work spans website development, Telegram bots, mini-apps, and Python-based projects.<br><br>On the backend, I’m highly proficient in PHP, Python, and Node.js, creating scalable and robust server-side solutions. On the frontend, I specialize in React, Next.JS, and Bootstrap, delivering responsive, interactive, and polished user interfaces.<br><br>I thrive on solving complex problems, optimizing performance, and turning ideas into functional digital products. Constantly exploring new technologies, I aim to craft software that is both elegant and powerful.<br><br>If you want a developer who can handle both the backend logic and frontend experience while building bots, mini-apps, and Python scripts, you’ve found the right profile.
+I’m a full-stack web developer with a passion for building modern, efficient, and user-friendly applications. My work spans website development, Telegram bots, mini-apps, and Python-based projects.<br><br>On the backend, I’m highly proficient in PHP, Python, and Node.js, creating scalable and robust server-side solutions. On the frontend, I specialize in React, Next.js, and Bootstrap, delivering responsive, interactive, and polished user interfaces.<br><br>I thrive on solving complex problems, optimizing performance, and turning ideas into functional digital products. Constantly exploring new technologies, I aim to craft software that is both elegant and powerful.<br><br>If you want a developer who can handle both the backend logic and frontend experience while building bots, mini-apps, and Python scripts, you’ve found the right profile.
 
 <br>
 
@@ -27,9 +27,9 @@ I’m a full-stack web developer with a passion for building modern, efficient, 
 <br>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=emadtoranji&theme=algolia&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=emadtoranji&theme=algolia&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=emadtoranji&theme=algolia&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=emadtoranji&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&1)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=emadtoranji&theme=algolia&hide_border=false&1)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=emadtoranji&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact&1)
 
 <br>
 
