@@ -15,9 +15,9 @@ If you’re looking for a developer who can seamlessly handle backend logic, fro
 <br>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=emadtoranji&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&1)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=emadtoranji&theme=algolia&hide_border=false&1)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=emadtoranji&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact&1)
+![](https://github-stats-extended.vercel.app/api?username=emadtoranji&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=emadtoranji&theme=algolia&hide_border=false)<br/>
+![](https://github-stats-extended.vercel.app/api/top-langs/?username=emadtoranji&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <br>
 
